@@ -1,0 +1,4 @@
+baseURL = "http://kotlinhow.github.io/"
+languageCode = "en-us"
+title = "Kotlin.How"
+theme = "even"
